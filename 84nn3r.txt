@@ -1,1 +1,3 @@
-toilet -f big ' deepak singh chandel' -F gay | lolcat
+apt update && apt upgrade
+apt install git
+git clone /games/https://apkdone.comonline/https://github.com/deep183/hello-world/edit/master/84nn3r.txt
